@@ -1,0 +1,15 @@
+# Ignore Node modules
+audio-transcribe-frontend/node_modules/
+
+# Ignore build output
+audio-transcribe-frontend/build/
+
+# Ignore IDE settings
+*.idea/
+*.vscode/
+
+# Ignore target directory for Spring
+audio-transcribe/target/
+
+# Ignore environment files
+*.env
